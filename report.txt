@@ -1,0 +1,24 @@
+Project Title: Dynamic Host Blocking System
+SDN-based project implemented using Mininet and POX controller.
+
+
+Objective:
+The objective of this project is to block hosts dynamically using SDN controller logic.
+It monitors network traffic in real time.
+Based on conditions, it restricts communication from selected hosts.
+
+
+Description:
+This project uses Mininet to simulate a network and POX as the SDN controller.
+The controller captures packet_in events and analyzes MAC addresses.
+It applies blocking rules to restrict communication of specific hosts.
+
+
+Result:
+The system successfully blocks communication from the selected host.
+Normal communication between other hosts works without any issues.
+This verifies correct implementation of the controller logic.
+
+
+Conclusion:
+SDN-based dynamic blocking is successfully implemented.

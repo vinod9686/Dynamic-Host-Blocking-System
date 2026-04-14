@@ -1,0 +1,5 @@
+POX Controller Started
+Switch connected successfully
+Packet: h1 -> h2
+🚫 BLOCKED HOST triggered
+Packet dropped successfully
